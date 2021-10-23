@@ -31,5 +31,10 @@ a.get_tests()
 a.get_solution()
 a.convert(open('result.md', 'w'))
 
-if __name__ == '__main__':
+
+def main():
     print('hello')
+
+
+if __name__ == '__main__':
+    main()
