@@ -1,7 +1,7 @@
 import random as rand
-from scipy import integrate
 from math import exp
 from time import perf_counter
+from scipy import integrate
 from numba import njit
 
 @njit
@@ -9,8 +9,8 @@ def f(x):
     return 4*x*exp(-2*x)
 
 @njit
-def ext(f):               # она типо ищет экстремумы, но это слишком сложно, поэтому используйте воображение
-    return [1/2]          # а сами экстремумы ищите сами
+def ext(f):               # она типо ищет экстремумы, но это слишком сложно,
+    return [1/2]          # поэтому используйте воображение, экстремумы ищите сами
 
 @njit
 def s_quad(x_1,x_2,y_1,y_2):
@@ -41,24 +41,24 @@ def karlo_numba(a,b,n):
 
 
 if __name__ == '__main__':
-    a, b = map(float, input().split())
+    x0, x1 = map(float, input().split())
     n = int(input())
     extremum = [1/2]
 
     start = perf_counter()
-    integra = karlo(a, b, n)
+    integra = karlo(x0, x1, n)
     end = perf_counter()
 
     start_nb = perf_counter()
-    integra = karlo(a,b,n)
+    integra = karlo(x0,x1,n)
     end_nb = perf_counter()
 
     t = end-start
     t_nb = end_nb - start_nb
 
-    v, err = integrate.quad(f, a, b)
+    v, err = integrate.quad(f, x0, x1)
 
-    print('Интеграл с scipy: {}\nИнтеграл мой: {} :)'.format(v,integra))
+    print(f'Интеграл с scipy: {v}\nИнтеграл мой: {integra} :)')
     print('Скорость без нумбы: %.2f' % t)
     print('Скорость с ней: %.2f' % t_nb)
     print('Скорость увеличилась в %.2f раз' % (t/t_nb))

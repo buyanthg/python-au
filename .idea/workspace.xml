@@ -19,11 +19,33 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5706a811-14fe-4d74-ae06-59cef924d0c5" name="Default Changelist" comment="Гуманитарное задание У-У" />
+    <list default="true" id="5706a811-14fe-4d74-ae06-59cef924d0c5" name="Default Changelist" comment="Турбо буратино 2.0&#10;Лучше мощнее быстрее экономичнее&#10;Скр">
+      <change afterPath="$PROJECT_DIR$/J_RPG/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J_RPG/characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J_RPG/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_au.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_au.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/converted files/task.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/converted files/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/generator_md.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/result.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/папа карло)))/буратино.py" beforeDir="false" afterPath="$PROJECT_DIR$/papa_karlo/буратино.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,10 +59,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../calc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration name="design" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="буратино" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_au" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +70,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/calc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/папа карло)))" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calc/design.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/папа карло)))/буратино.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_au" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/папа карло)))" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/папа карло)))/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="characters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_au" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/J_RPG" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/J_RPG/characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,12 +132,33 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/calc" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/J_RPG" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calc/main.py" />
+      <option name="SCRIPT_NAME" value="D:\AU\python-au\J_RPG\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_au" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/J_RPG" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/J_RPG/trash.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,13 +168,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.design" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.буратино" />
+      <item itemvalue="Python.trash" />
+      <item itemvalue="Python.characters" />
       <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.design" />
+        <item itemvalue="Python.characters" />
+        <item itemvalue="Python.trash" />
+        <item itemvalue="Python.буратино" />
+        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +202,35 @@
       <option name="project" value="LOCAL" />
       <updated>1650056272199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Гуманитарное задание У-У">
+      <created>1650056805302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650056805302</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Гуманитарное задание У-У">
+      <created>1650057196362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650057196362</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Как бы мне её назвать? — раздумывал Карло. — Назову-ка я её Буратино">
+      <created>1650102526452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650102526452</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Турбо буратино 2.0&#10;Лучше мощнее быстрее экономичнее&#10;Скр">
+      <created>1650105045601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650105045601</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,20 +243,23 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Гуманитарное задание У-У" />
-    <option name="LAST_COMMIT_MESSAGE" value="Гуманитарное задание У-У" />
+    <MESSAGE value="Как бы мне её назвать? — раздумывал Карло. — Назову-ка я её Буратино" />
+    <MESSAGE value="Турбо буратино 2.0&#10;Лучше мощнее быстрее экономичнее&#10;Скр" />
+    <option name="LAST_COMMIT_MESSAGE" value="Турбо буратино 2.0&#10;Лучше мощнее быстрее экономичнее&#10;Скр" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650053279468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1650053279468" />
-    <state x="488" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1650053321258">
+    <state x="488" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653582178704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="488" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1650053321258" />
+    <state x="488" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1653582178704" />
     <state x="484" y="8" key="#design" timestamp="1650053268921">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -146,37 +268,72 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="8" key="#main/0.0.1536.824@0.0.1536.824" timestamp="1650053291228" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1648258785711">
+    <state x="484" y="8" key="#буратино" timestamp="1650059375794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1648258785711" />
-    <state width="757" height="210" key="GridCell.Tab.0.bottom" timestamp="1650056292956">
+    <state x="484" y="8" key="#буратино/0.0.1536.824@0.0.1536.824" timestamp="1650059375794" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1650245203350">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1650056292956" />
-    <state width="757" height="210" key="GridCell.Tab.0.center" timestamp="1650056292956">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1650245203350" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1653606607246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1650056292956" />
-    <state width="757" height="210" key="GridCell.Tab.0.left" timestamp="1650056292956">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1653606607246" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1653606607245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1650056292956" />
-    <state width="757" height="210" key="GridCell.Tab.0.right" timestamp="1650056292956">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1653606607245" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1653606607245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1650056292956" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1650056590644">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1653606607245" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1653606607245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1650056590644" />
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650056368459">
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1653606607245" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1653606127724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1650056368459" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1653606127724" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1653606127724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1653606127724" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1653606127724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1653606127724" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1653606127724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1653606127724" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1650105092093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1650105092093" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1653606841548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1653606841548" />
     <state x="502" y="201" key="git4idea.merge.GitPullDialog" timestamp="1650056383476">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="502" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1650056383476" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1653586928384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1653586928384" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/J_RPG/characters.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
