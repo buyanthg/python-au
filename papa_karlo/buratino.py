@@ -4,16 +4,19 @@ from time import perf_counter
 from scipy import integrate
 from numba import njit
 
+
 @njit
 def f(x):
     return 4*x*exp(-2*x)
+
 
 @njit
 def ext(f):               # она типо ищет экстремумы, но это слишком сложно,
     return [1/2]          # поэтому используйте воображение, экстремумы ищите сами
 
+
 @njit
-def s_quad(x_1,x_2,y_1,y_2):
+def s_quad(x_1, x_2, y_1, y_2):
     return (x_2-x_1)*(y_2-y_1)
 
 
@@ -34,6 +37,7 @@ def karlo(a, b, n):
             count_dot += 1
 
     return s_quad(a, b, min_f, max_f) * count_dot / n
+
 
 @njit
 def karlo_numba(a,b,n):
