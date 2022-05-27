@@ -124,7 +124,7 @@ results = [0]*POPULATION_SIZE
 gen_count = 0
 game_pass = 0
 
-while not game_pass and gen_count < POPULATION_SIZE:
+while not game_pass and gen_count < MAX_GENERATION:
     for i in range(POPULATION_SIZE):
         super_heroine_x = char.Hero(gen_hero[i])
         results[i] = game(super_heroine_x, enemies)
