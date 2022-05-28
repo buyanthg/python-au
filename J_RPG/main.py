@@ -1,4 +1,4 @@
-import J_RPG.characters as char
+import characters as char
 import random as rand
 
 POPULATION_SIZE = 10
