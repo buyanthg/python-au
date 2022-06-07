@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <title>Best Anime Girl</title>
+    <style>
+        input.trap {
+            font-size:120px;
+        }
+        p.ha {
+            font-size:70px
+        }
+    </style>
+  </head>
+  <body>
+  <form action="/index" method="GET">
+      <input name="p" placeholder="вес"/>
+      <input name="q" placeholder="рост">
+      <input type="submit" value="Отправить">
+  </form>
+      <p></p>
+        {% if imt > 0 %}
+            Ваш ИМТ равен: {{imt}}
+            <p></p>
+        {% elif imt == -1 %}
+            Неправильные данные
+            <p></p>
+        {% endif %}
+
+      <img src="static/kag.png" height="400">
+
+    <video height="400" autoplay  controls="controls">
+      <source src="static/phonk.mp4" type="video/mp4">
+    </video>
+        <p class="trap">
+            <form target="_blank" action="/trap">
+                <input type="button" class="trap" value="НАЖМИТЕ"
+                   onclick="window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley'),
+                   document.location = 'http://127.0.0.1:5000/trap'">
+            </form>
+
+        </p>
+
+  </body>
+</html>
